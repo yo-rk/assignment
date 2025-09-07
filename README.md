@@ -1,4 +1,4 @@
-## Java Banking Application
+## Java Banking Application Java Programming Assignment 1
 Name: Yashieta Sethi
 Roll No.: 2401010187
 Course Name: Java Programming
