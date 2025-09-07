@@ -32,7 +32,7 @@ assignment/
 ---
 
 ## How to Run
-1. Clone this repository: `git clone https://github.com/yo-rk/assignment.git`  
+1. Clone this repository: `git clone https://github.com/yo-rk/Java_Assignment-1.git`  
 2. Navigate to the folder: `cd assignment`  
 3. Compile: `javac Account.java UserInterface.java`  
 4. Run: `java UserInterface`  
